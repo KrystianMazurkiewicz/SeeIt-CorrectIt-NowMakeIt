@@ -108,7 +108,7 @@ header {
   position: absolute;
   width: 100%;
   height: 200px;
-  overflow-y: hidden
+  overflow-y: hidden;
   opacity: 0;
   animation: goUp 2000ms linear;
   transform: translateY(500px);
