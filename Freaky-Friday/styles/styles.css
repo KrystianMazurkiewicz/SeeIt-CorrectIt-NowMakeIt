@@ -203,13 +203,14 @@ footer {
 .nav-footer ul li a {
   font-weight: 700;
   color: white;
-  margin: 0px 100px;
   font-size: 30px;
 }
 
 .nav-footer ul li {
   position: relative;
   padding-bottom: 5px;
+  margin: 0px 50px;
+  text-align: center;
 }
 
 .nav-footer ul li a::before {
